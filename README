@@ -1,0 +1,15 @@
+Tedigo is a gTalk client written using Python, GTK+ and the XMPP python library XMPPPY.
+
+It's just an introductory application which aims to show how the XMPP protocol can be used aside with Python and a GUI.
+
+For running Tedigo make sure you have the following packages installed:
+
+	- Python >= 2.7
+	- GTK+ >= 2.24
+	- python-glade2
+	- python-xmpp
+
+Then run:
+	python app.py
+
+In version 0.7 Tedigo is able to show the contact list, where you can choose any contact and start talking to him. Smileys are also supported.
